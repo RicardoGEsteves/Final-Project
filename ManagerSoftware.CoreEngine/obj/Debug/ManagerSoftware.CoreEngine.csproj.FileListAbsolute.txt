@@ -1,0 +1,26 @@
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\obj\Debug\ManagerSoftware.CoreEngine.csproj.CoreCompileInputs.cache
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Pessoal\ETIC\Project\Project\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.csproj.CoreCompileInputs.cache
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe.config
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.pdb
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.exe
+D:\Pessoal\ETIC\Project\Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.pdb
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe.config
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.pdb
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.csprojResolveAssemblyReference.cache
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.csproj.CoreCompileInputs.cache
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.exe
+C:\Users\Joana Pascoal\Desktop\Project Solved\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.pdb
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe.config
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.exe
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\bin\Debug\ManagerSoftware.CoreEngine.pdb
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.csprojResolveAssemblyReference.cache
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.exe
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.pdb
+D:\Etic\Final Project\ManagerSoftware.CoreEngine\obj\Debug\ManagerSoftware.CoreEngine.csproj.CoreCompileInputs.cache

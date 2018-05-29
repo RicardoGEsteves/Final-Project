@@ -1,0 +1,10 @@
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.csprojResolveAssemblyReference.cache
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.Properties.Resources.resources
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.csproj.GenerateResource.Cache
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.csproj.CoreCompileInputs.cache
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\bin\Debug\ManagerSoftware.GUIApplication.exe.config
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\bin\Debug\ManagerSoftware.GUIApplication.exe
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\bin\Debug\ManagerSoftware.GUIApplication.pdb
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.exe
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.pdb
+C:\Users\Joana Pascoal\Documents\Pessoal\ETIC\Project\Project\ManagerSoftware.GUIApplication\obj\Debug\ManagerSoftware.GUIApplication.Manager_Software_Windows.resources
